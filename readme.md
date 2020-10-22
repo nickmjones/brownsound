@@ -7,6 +7,7 @@ This repo houses my attempts at recreating [Eddie Van Halen's](https://en.wikipe
 This repo currently contains only one patch:
 
 - "Van Halen 1" Era
+
 This patch tries to replicate the sound that started all the fuss. This is based on GarageBand's "Brown Head", which is a clone (sort of an amalgamation, really) of early Marshall 100 watt amps. 
 
 ![Screen Shot 2020-10-22 at 12 33 49 AM](https://user-images.githubusercontent.com/563451/96826210-e1748f00-1400-11eb-906c-f3cea99d4212.png)
