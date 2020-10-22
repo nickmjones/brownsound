@@ -15,7 +15,7 @@ Van Halen himself famously used a Marshall Superlead connected to a Variac volta
 
 ![Screen Shot 2020-10-22 at 12 34 06 AM](https://user-images.githubusercontent.com/563451/96826244-f0f3d800-1400-11eb-816e-ae0d0cfbd767.png)
 
-Hear a sample of the patch [here](https://github.com/nickmjones/brownsound/blob/master/van_halen_1_sample.mp3). This sample was played on a 2000 Fender Telecaster.
+Hear a sample of the patch [here](https://github.com/nickmjones/brownsound/blob/master/van_halen_1_sample.mp3?raw=true). This sample was played on a 2000 Fender Telecaster.
 
 ## Using the patches
 After downloading a patch, it needs to go in:
