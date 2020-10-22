@@ -17,6 +17,11 @@ Van Halen himself famously used a Marshall Superlead connected to a Variac volta
 
 Hear a sample of the patch [here](https://github.com/nickmjones/brownsound/blob/master/van_halen_1_sample.mp3). This sample was played on a 2000 Fender Telecaster.
 
+## Using the patches
+After downloading a patch, it needs to go in:
+`~/Music/Audio Music Apps/Patches`
+Then, it should be available as a User Patch in GarageBand.
+
 ## Future Patches
 Currently, I'm working on:
 - "1984" Era
