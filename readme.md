@@ -16,7 +16,7 @@ Van Halen himself famously used a Marshall Superlead connected to a Variac volta
 
 ![Screen Shot 2020-10-22 at 12 34 06 AM](https://user-images.githubusercontent.com/563451/96826244-f0f3d800-1400-11eb-816e-ae0d0cfbd767.png)
 
-Hear a sample of the patch [here](https://cvws.icloud-content.com/B/AVnLm3XOu-OjgAFGeHqx2TZjJIxkATmoz9VdnWxRwNrD8i5z84uqyw-Q/van_halen_1_sample.mp3?o=AstyqtfHXprNxu0RzTFaMazejLtrH7i9h0c00fU6vARI&v=1&x=3&a=CAogH9udIek3MFJaQFpDnpy1Ua1FdGiej_Ez-8UYxlWStY8SaxCM0tr11C4YrMmR9tQuIgEAUgRjJIxkWgSqyw-QaiWUQTbG4TB92Usq-T6KCSbVyNJz_JVWwArM4Z7pOA3K9XEnC834ciXta5sMY2wxQ1t7xSVGSGC6OATWqOlPRpxuDEx5OpPj3KGySisz&e=1603344295&fl=&r=ce63b310-0ce6-4378-b27d-67597b7540a9-1&k=Ly4TO093C9AA8_TuKYCVyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=33&s=sNaf1qWR6KYJT1kf6KXg1irmxV8&cd=i). This sample was played on a 2000 Fender Telecaster.
+Hear a sample of the patch [here](https://drive.google.com/file/d/1xdKf0EuUmfA_GbeTbzc-JpZIT4lQjXd4/view?usp=sharing). This sample was played on a 2000 Fender Telecaster.
 
 ## Using the patches
 After downloading a patch, it needs to go in:
