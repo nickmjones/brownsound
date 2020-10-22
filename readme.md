@@ -26,8 +26,10 @@ Then, it should be available as a User Patch in GarageBand.
 ## Future Patches
 Currently, I'm working on:
 - "1984" Era
+
 "1984" represents the biggest refinement of the "classic" EVH tone.
 - "Post-1984" Era
+
 Also known as the "Van Hagar" era, this tone is marked by a slightly more scooped character and more frequent use of effects, especially chorus. By this time EVH was also using his own signature 5150 amps.
 
 ## Why are you doing this?
