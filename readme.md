@@ -1,4 +1,4 @@
-# EVH Patches for GarageBand
+# EVH Patches for GarageBand 🎸
 
 ## What is this?
 This repo houses my attempts at recreating [Eddie Van Halen's](https://en.wikipedia.org/wiki/Eddie_Van_Halen) guitar tone—from various eras of his playing—using only GarageBand. There are lots of guitar amp simulators for various platforms that do this, and do it well. But GarageBand is _free_, it's well-supported, and millions of musicians already have it. I took this project as a challenge to see if I could get close to some of Ed's famous tones using only what comes preinstalled in GarageBand 10.3.5 for mac OS.
