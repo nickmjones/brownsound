@@ -23,4 +23,6 @@ Currently, I'm working on:
 Also known as the "Van Hagar" era, this tone is marked by a slightly more scooped character and more frequent use of effects, especially chorus. By this time EVH was also using his own signature 5150 amps.
 
 ## Why are you doing this?
-Eddie Van Halen is the Mozart of his generation. He was a supremely talented musician, arranger, and player. As good as his lead guitar playing was, it could be argued that he was an even better rhythm player. I'm sad that he's gone. The world is poorer for it. These patches let guitar players like me study his playing, and reminisce about old days poring over his songs with the 
+Eddie Van Halen is the Mozart of his generation. He was a supremely talented musician, arranger, and player. As good as his lead guitar playing was, it could be argued that he was an even better rhythm player. I'm sad that he's gone. The world is poorer for it. 
+
+Hopefully, you can use these patches to have fun learning his tunes.
